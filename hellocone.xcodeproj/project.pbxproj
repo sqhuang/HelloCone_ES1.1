@@ -456,7 +456,7 @@
 				DEVELOPMENT_TEAM = 3ST297D7G8;
 				INFOPLIST_FILE = opengles1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qiu.opengles1;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qiu.opengles1-hellocone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -468,7 +468,7 @@
 				DEVELOPMENT_TEAM = 3ST297D7G8;
 				INFOPLIST_FILE = opengles1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qiu.opengles1;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qiu.opengles1-hellocone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
